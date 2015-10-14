@@ -1,8 +1,8 @@
-# Isobar Front-end Code Standards
+# BNL Front-end Code Standards
 
 ## Introduction
 
-This document contains the guidelines and best practices for the front-end web development team at Isobar. 
+This document contains the guidelines and best practices for the front-end web development team at BNL. 
 
 Each item here represents either:
 

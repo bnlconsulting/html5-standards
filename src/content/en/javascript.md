@@ -409,8 +409,6 @@ There is an enormous volume of JavaScript reference material out in the wild tod
  - [Maintainable JavaScript Presentation](http://www.slideshare.net/nzakas/maintainable-javascript-2012)
  - [Large Scale JavaScript Applications](https://speakerdeck.com/addyosmani/large-scale-javascript-application-architecture)
 
-For more current links and references, please see [our Wiki on Github](https://github.com/isobar-idev/code-standards/wiki/Useful-Links-and-Resources).
-
 <aside class="box">
 <p>**Note:**<br>We could write a book on JavaScript frameworks and what we've learned there, but this isn't the time. We may add more in the near future.</p>
 </aside>

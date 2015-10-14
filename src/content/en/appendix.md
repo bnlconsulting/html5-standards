@@ -7,7 +7,7 @@ We hope to add more content, edit, and revise the content above with more inform
 
 ### Advanced Topics
 
-There's so much to cover, and so little time. What follows is just a sample of links the team at Isobar regularly uses to find current information. We plan on adding more over time.
+There's so much to cover, and so little time. What follows is just a sample of links the team at BNL regularly uses to find current information. We plan on adding more over time.
 
 #### On the Server
 
@@ -52,7 +52,7 @@ Performance is a huge topic. Links and more content coming soon.
 
 #### Accessibility
 
-Isobar regularly codes with accessibility in mind. Links and content coming soon.
+BNL regularly codes with accessibility in mind. Links and content coming soon.
 
  - [ARIA](http://www.w3.org/WAI/intro/aria)
  - [WAI Resources](http://www.w3.org/WAI/Resources/Overview)
@@ -127,6 +127,11 @@ Special thanks to:
  - Rick Waldron
  - Rob Larsen
  - Tim Berners-Lee
+ - Anthony Patton
+ 
+Document originally forked from 
+ - [Isobar Code-Standards](https://github.com/isobar-idev/code-standards/)
+
 
 
 

@@ -149,20 +149,20 @@ input:invalid, textarea:invalid {
    No text-shadow: twitter.com/miketaylr/status/12228805301
    Also: hot pink! */
 ::-moz-selection {
-  background: #FF5E99;
+  background: #5591c7;
   color: #fff;
   text-shadow: none;
 }
 
 ::selection {
-  background: #FF5E99;
+  background: #5591c7;
   color: #fff;
   text-shadow: none;
 }
 
 /* j.mp/webkit-tap-highlight-color */
 a:link {
-  -webkit-tap-highlight-color: #FF5E99;
+  -webkit-tap-highlight-color: #5591c7;
 }
 
 /* Make buttons play nice in IE:
@@ -181,7 +181,7 @@ button {
 body {
   background: #fff;
   color: #444444;
-  border-top: 5px solid #f23109;
+  border-top: 5px solid #3070aa;
 }
 
 figure {
@@ -302,7 +302,7 @@ p, ol, ul {
 /* Headers (h1, h2, etc) have no default font-size or margin;define those yourself */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", sans-serif;
-  color: #f23109;
+  color: #3070aa;
   position: relative;
   margin-top: 20px;
 }
@@ -347,11 +347,11 @@ h2::before {
   color: white;
   border-radius: 100px;
   padding-top: 6px;
-  padding-left: 20px;
+  padding-left: 22px;
   height: 94px;
   font-size: 65px;
   width: 80px;
-  background: none repeat scroll 0% 0% #F74902;
+  background: none repeat scroll 0% 0% #3070aa;
   float: left;
   margin: 0px 20px 20px 0px;
 }
@@ -366,7 +366,7 @@ a:hover, a:active {
 }
 
 a:hover {
-  color: #F74902;
+  color: #3070aa;
 }
 
 /* Logo + Container + Main + Section + Aside 
@@ -501,14 +501,14 @@ header {
 
 header a {
   width: 137px;
-  height: 39px;
+  height: 60px;
   display: inline-block;
 }
 
 header h1 {
   width: 137px;
   padding: 0;
-  height: 40px;
+  height: 60px;
   margin-left: 20px;
 }
 
@@ -550,16 +550,16 @@ header canvas {
 }
 
 .menu-open .menu-button:after, .menu-open .menu-button:before {
-  background-color: #f23109;
+  background-color: #3070aa;
 }
 
 .menu-open .menu-button {
-  border-bottom: 5px solid #f23109;
+  border-bottom: 5px solid #3070aa;
 }
 
 header h1 a {
   background: url("../img/orange.svg") no-repeat 0 0;
-  background-size: auto 80%;
+  background-size: auto 100%;
   overflow: hidden;
   text-indent: 200%;
   white-space: nowrap;
@@ -607,7 +607,7 @@ header .social #linkback:hover {
 }
 
 #linkback span {
-  color: #f23109;
+  color: #3070aa;
 }
 
 #linkback:hover {
@@ -627,7 +627,7 @@ header .social #linkback:hover {
 }
 
 .box_notice {
-  background: #f23109;
+  background: #3070aa;
   color: #ffffff;
 }
 
@@ -750,7 +750,7 @@ header .social #linkback:hover {
   }
   h1, h2, h3 {
     /* color:#f30; */
-    color: #F74902;
+    color: #3070aa;
     position: relative;
     margin-top: 20px;
     font-weight: 200;
@@ -766,7 +766,7 @@ header .social #linkback:hover {
   a, a:visited {
     text-decoration: none;
     /* color:#f30 */
-    color: #F74902;
+    color: #3070aa;
   }
   body .fork, #side, header #social, canvas, .anchor_link, .back-anchor {
     visibility: hidden;
@@ -786,7 +786,7 @@ header .social #linkback:hover {
     border-top: 90px solid #fff;
   }
   header {
-    border-top: 5px solid #f23109;
+    border-top: 5px solid #3070aa;
     position: fixed;
     padding-left: 0px;
     z-index: 5;

@@ -80,7 +80,7 @@ Generally speaking, self-closing XML (i.e. XHTML, XML) style tags are not necess
 
 ```markup
 <!-- closing "/" is not necessary -->
-<img src="/logo.png" alt="ISOBAR">
+<img src="/logo.png" alt="BNL">
 
 <!-- include closing tags, however -->
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit:</p>

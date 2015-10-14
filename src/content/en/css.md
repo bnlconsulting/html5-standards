@@ -271,7 +271,7 @@ For these reasons it is often best to go with the most simple, basic set of conv
 
 #### A Simple CSS Code Pattern
 
-<!-- Isobar Component Pattern 
+<!-- BNL Component Pattern 
     This entire section might be best left out, I don't know if it goes 
     too far for the document? From there down to "Utilities"
 -->
