@@ -5,6 +5,58 @@ Being a Front-end developer these days covers an enormous spectrum of technologi
 
 We hope to add more content, edit, and revise the content above with more information, samples, and resources.
 
+### Getting Started Basics
+
+These are a collection of links that will help get you up and running as quickly as possible in the BNL front end development team
+
+#### Git / Github
+
+Learn about branching, merging, and setting up your local environment
+
+ - [Github Flow](https://guides.github.com/introduction/flow)
+ - [Webstorm Github Integration](https://www.jetbrains.com/webstorm/help/using-github-integration.html)
+ - [Github SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
+ 
+#### AngularJS
+
+Learn about data binding, views, controllers, services, factories, directives...
+
+ - [Angular Tutorial](https://docs.angularjs.org/tutorial)
+ - [Angular Guide](https://docs.angularjs.org/guide)
+ - [25 Days of Angular](http://www.ng-newsletter.com/advent2013/#!/day/1)
+ - [Angular Fundamentals](https://egghead.io/series/angularjs-app-from-scratch-getting-started)
+ 
+#### Yeoman / Bower / Grunt
+ 
+Get familiar with yo for scaffolding, bower for package management and grunt for building.
+The Yo Angular Generator is our current standard for workflow. Using the same generator keeps us consistent.
+
+ - [Getting Started with Yeoman](http://yeoman.io/learning/)
+ - [Bower Home](http://bower.io/)
+ - [Getting Started with Grunt](http://gruntjs.com/getting-started)
+ - [Yo Angular Generator](https://github.com/yeoman/generator-angular)
+ 
+#### Bootstrap
+
+We use Bootstrap for all our standard responsive layout css and component styling.
+Learn the grid system and take a look at the available components.
+ 
+ - [Bootstrap Getting Started](http://getbootstrap.com/getting-started/)
+ - [Bootstrap Grid](http://getbootstrap.com/css/#grid)
+ - [Bootstrap Components](http://getbootstrap.com/components/)
+ - [Bootstrap in 15 Mins](https://www.youtube.com/watch?v=no-Ntkc836w)
+ 
+#### D3
+ 
+We use D3 for custom visualizations, as well as some popular D3 libraries for off the shelf charts
+This is more for reference than early learning.
+ 
+ - [D3 Circles](http://bost.ocks.org/mike/circles/)
+ - [D3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
+ - [D3 for Mere Mortals](http://www.recursion.org/d3-for-mere-mortals/)
+ - [Rickshaw Charts](http://code.shutterstock.com/rickshaw/tutorial/introduction.html)
+ - [NVD3 Charts](http://nvd3.org/)
+
 ### Advanced Topics
 
 There's so much to cover, and so little time. What follows is just a sample of links the team at BNL regularly uses to find current information. We plan on adding more over time.
